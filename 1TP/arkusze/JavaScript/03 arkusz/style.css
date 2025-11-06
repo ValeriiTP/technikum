@@ -1,0 +1,61 @@
+header {
+    background: linear-gradient(#A0522D, #F5DEB3);
+    padding: 30px;
+    display: flex;
+justify-content: center;
+}
+
+body{
+    background-color: wheat;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    
+}
+
+#baner{
+display: flex;
+justify-content: center;
+}
+
+footer{
+    background: linear-gradient(to top, #A0522D, #F5DEB3);
+    padding: 30px;
+
+}
+
+
+main{
+    padding: 50px;
+
+}
+
+a{
+    text-decoration: none;
+    color:white;
+    padding: 14px;
+    border: none;
+    background-color: #A0522D;
+}
+
+
+a:hover{
+    text-decoration: underline;
+}
+
+
+ table, td, th {
+    border: 1px solid Sienna;
+    border-collapse: collapse;
+}
+
+table {
+    width: 70%;
+    margin: auto;
+}
+
+td, th {
+    padding: 5px;
+}
+    
+    
