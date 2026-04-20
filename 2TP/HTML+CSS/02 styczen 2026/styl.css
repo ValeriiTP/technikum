@@ -1,0 +1,38 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+header, footer{
+    background-color: forestgreen;
+    padding: 2px;
+    text-align: center;
+}
+
+nav{
+    background-color: darkkhaki;
+    height: 150px;
+    overflow: hidden;
+}
+aside, section{
+    background-color: khaki;
+    width: 50%;
+    height: 400px;
+}
+
+#BB{
+padding: 2px;
+margin: 10px;
+border: 2px dotted forestgreen;
+border-radius: 40px;
+}
+
+p{
+    font-size: 120%;
+   font-style: italic;
+}
+main{
+    display: flex;
+}
+
+body{
+    margin: 0;
+}
